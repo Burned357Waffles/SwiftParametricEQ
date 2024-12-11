@@ -103,7 +103,8 @@ The FileHandler class takes care of reading the song files, organizing the song 
 <hr>
 
 <h3>Acknowledgments</h3>
-ChatGPT was used to aid in some of the code for this project.
+
+ChatGPT was used to aid in some of the code for this project. 
 
 AudioKit: https://github.com/AudioKit/AudioKit/
 
