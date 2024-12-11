@@ -76,3 +76,20 @@ This project uses SwiftUI and the following packages:
 
 - Foundation
 
+
+The project has the following views:
+- MainMenuView
+
+- ArtistView
+
+- AlbumView
+
+- SongView
+
+- InformationView
+
+- PlayerView
+
+- EQView
+
+The FileHandler class takes care of reading the song files, organizing the song files by artist, album, etc, creating and applying the EQ filters, and playing the music files.
