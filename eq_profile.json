@@ -1,0 +1,23 @@
+[
+  {
+    "id" : "73F9150B-DAA3-4DE7-BC95-79CFCDD6AD60",
+    "gain" : 3,
+    "type" : "low-shelf",
+    "frequency" : 70,
+    "q" : 0.7
+  },
+  {
+    "type" : "peak",
+    "id" : "D613F53B-5242-40C9-976D-FD2A42606AAE",
+    "frequency" : 1000,
+    "q" : 1.41,
+    "gain" : -0.6
+  },
+  {
+    "frequency" : 1000,
+    "type" : "high-shelf",
+    "id" : "163DBCBF-11DB-4128-BB1B-8E163DD624EF",
+    "q" : 0.7,
+    "gain" : 2
+  }
+]
