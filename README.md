@@ -17,7 +17,7 @@ Note: Since I do not own an IEM measurement rig (and cannot afford one), I do no
 <h3>Installation Guide</h3>
 Clone this repository and open the project in Xcode. 
 
-Note: This project was entirely tested on an iPhone 15 Pro Max Simulator in portrait mode.
+Note: This project was entirely tested on an iPhone 15 Pro Max Simulator in portrait mode. There is no promise that it works on different devices or in landscape mode.
 
 <hr>
 
