@@ -44,7 +44,7 @@ You can view all artists, all albums, all songs, all albums by a specific artist
 <img src=https://github.com/user-attachments/assets/85bfa1d3-8c12-4ee5-8a30-5e75da957e85 width=200>
 <img src=https://github.com/user-attachments/assets/66e845e0-b05c-46a8-9e8f-604b37200e9e width=200>
 <img src=https://github.com/user-attachments/assets/5fc449fb-6923-4fc9-9c1e-eb85611b65ed width=200>
-<img src=https://github.com/user-attachments/assets/dc3ea7fc-4f97-4c10-9293-b2d996e7f93a width=200>
+<img src=https://github.com/user-attachments/assets/a64de97d-b321-4766-8c70-4db9434930a0 width=200>
 <img src=https://github.com/user-attachments/assets/b403f8d7-7e7b-490e-8e4e-4e71deb7212d width=200>
 <img src=https://github.com/user-attachments/assets/56922244-8bc5-4756-addf-a322e5ec08f5 width=200>
 
