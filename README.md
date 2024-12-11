@@ -6,6 +6,12 @@
 <h3>About</h3>
 Welcome to Swift Parametric Equalizer. This app was developed by Brandon Watanabe for CSC 780-01. With this app you can play your favorite downloaded songs and adjust a parametric equalizer to suit your headphones. If you do not know what EQ filters to use, consider using the AutoEQ feature at https://graph.hangout.audio/ to find good settings for your specific headphone or IEM.
 
+This Term Project idea came from my passion for headphone audio and the lack of a Parametric Equalizer app for IOS. Since Apple's sandboxing does not allow for a gloabally applied EQ, I had to also make a music player so that I can apply the EQ. 
+
+A future imporvement would be to integrate the SpotifyAPI so that the user can play songs from Spotify and have the EQ applied.
+
+Note: Since I do not own an IEM measurement rig (and cannot afford one), I do not know if the EQ filters are 100% accurate when compared to something like Peace Equalizer APO but the EQ is definitely applied with the settings the user inputs. 
+
 <hr>
 
 <h3>Installation Guide</h3>
