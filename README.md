@@ -55,7 +55,9 @@ The PlayerView contains a few playback controls: play/pause, previous track, and
 
 <img src=https://github.com/user-attachments/assets/dc21f52c-167b-4e0e-add7-bfceeac97c5d width=200>
 
-The Equalizer view allows you to create a list of Equalizer Filters. You can add as many filters as you like by pressing the add button and remove then by swipinig left on the filter. There are 3 options for the filter type peak, low-shelf, and high-shelf which are accessible through a dropdown. Each filter requires a filter type, frequency, q factor, and gain. The preamp gain is automatically calculated to avoid clipping. When you hit save, these filters will be written to a json file in the app's documents directory. The song MUST be restarted or a new song must be selected to apply the changes. These will be persistent, so if you close and open the app the EQ profile you created will still be loaded.
+The Equalizer view allows you to create a list of Equalizer Filters. You can add as many filters as you like by pressing the add button and remove then by swipinig left on the filter. There are 3 options for the filter type peak, low-shelf, and high-shelf which are accessible through a dropdown. Each filter requires a Filter Type, Frequency, Q-Factor, and Gain. The filters are sorted by frequency. The preamp gain is automatically calculated to avoid clipping. When you hit save, these filters will be written to a json file in the app's documents directory. Adding a new filter will have the default values: Filter Type: Peak, Frequency: 1000 Hz, Q-Factor: 1.41, Gain: 0.
+
+The song MUST be restarted or a new song must be selected to apply the changes. These will be persistent, so if you close and open the app the EQ profile you created will still be loaded.
 
 <img src=https://github.com/user-attachments/assets/4d1b1821-3f4b-46a7-8e0a-c07c95519d4a width=200>
 
