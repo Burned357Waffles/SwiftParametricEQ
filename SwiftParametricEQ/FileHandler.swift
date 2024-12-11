@@ -466,10 +466,10 @@ class FileHandler: ObservableObject {
         }
     }
 
-    func playPrevious() async {
+    func playPrevious() async -> Bool{
         guard !currentPlayQueue.isEmpty else {
             print("Play queue empty")
-            return
+            return false
         }
         let previousIndex = currentPlayIndex - 1
         if previousIndex >= 0 {
@@ -486,7 +486,9 @@ class FileHandler: ObservableObject {
             let currentSong = currentPlayQueue[currentPlayIndex]
             await loadCurrentSongMetadata(from: currentSong)
             await togglePlayback(from: currentSong, keepPlaying: true, restart: true)
+            return true
         }
+        return false
     }
 
 

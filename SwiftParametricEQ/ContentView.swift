@@ -611,7 +611,11 @@ struct PlayerView: View {
                             Button(action: {
                                 print("Rewind")
                                 Task{
-                                    await fileHandler.playPrevious()
+                                    var toggle: Bool = false
+                                    await toggle = fileHandler.playPrevious()
+                                    if toggle {
+                                        isPlaying.toggle()
+                                    }
                                 }
                             }) {
                                 ZStack {
