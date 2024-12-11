@@ -62,3 +62,13 @@ The song MUST be restarted or a new song must be selected to apply the changes. 
 <img src=https://github.com/user-attachments/assets/4d1b1821-3f4b-46a7-8e0a-c07c95519d4a width=200>
 
 There is also an Information view which has a short description of the app.
+
+<hr>
+
+<h3>Technical Info</h3>
+This project uses SwiftUI and the following packages:
+- AudioKit
+- SoundpipeAudioKit
+- AVFoundation
+- Foundation
+
