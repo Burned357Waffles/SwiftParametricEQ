@@ -67,8 +67,12 @@ There is also an Information view which has a short description of the app.
 
 <h3>Technical Info</h3>
 This project uses SwiftUI and the following packages:
+
 - AudioKit
+  
 - SoundpipeAudioKit
+
 - AVFoundation
+
 - Foundation
 
