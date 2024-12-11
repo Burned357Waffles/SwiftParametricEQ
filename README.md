@@ -66,7 +66,7 @@ There is also an Information view which has a short description of the app.
 <hr>
 
 <h3>Technical Info</h3>
-This project uses SwiftUI and the following packages:
+This project uses SwiftUI, FileManager, and the following packages:
 
 - AudioKit
   
@@ -93,3 +93,15 @@ The project has the following views:
 - EQView
 
 The FileHandler class takes care of reading the song files, organizing the song files by artist, album, etc, creating and applying the EQ filters, and playing the music files.
+
+<hr>
+
+<h3>Acknowledgments</h3>
+ChatGPT was used to aid in some of the code for this project.
+
+AudioKit: https://github.com/AudioKit/AudioKit/
+
+SoundpipeAudioKit: https://github.com/AudioKit/SoundpipeAudioKit/
+
+FileManager Tutorial: https://medium.com/@shashidj206/mastering-filemanager-in-swift-and-swiftui-7f29d6247644
+
