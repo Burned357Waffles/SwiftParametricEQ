@@ -39,6 +39,10 @@ The files app should look like the following photo:
 
 <img src="https://github.com/user-attachments/assets/ff571738-e189-4c52-9bda-ba46faecfa7d" width=200>
 
+The directory in Finder should look like this:
+
+<img src="https://github.com/user-attachments/assets/f23603f8-2561-409f-9db3-645de190e0c4" width=200>
+
 <hr>
 
 <h3>Features</h3>
